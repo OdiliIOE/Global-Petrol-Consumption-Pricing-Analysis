@@ -35,5 +35,4 @@ Emmanuel Odili
 
 Data Analytics | Business Intelligence | Python | SQL | Power BI
 
-## License
-The license for original code does not automatically apply to third-party datasets. Check source-data terms before redistribution.
+[LinkedIn Profile](https://www.linkedin.com/in/odiliemmanuel)
