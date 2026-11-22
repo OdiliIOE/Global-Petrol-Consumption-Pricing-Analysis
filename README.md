@@ -33,6 +33,4 @@ These are descriptive results from the supplied files, not independently verifie
 ## Author
 Emmanuel Odili
 
-Data Analytics | Business Intelligence | Python | SQL | Power BI
-
-[LinkedIn Profile](https://www.linkedin.com/in/odiliemmanuel)
+Data Analyst | Business Consultant
