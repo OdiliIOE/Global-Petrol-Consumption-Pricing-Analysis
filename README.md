@@ -31,6 +31,6 @@ These are descriptive results from the supplied files, not independently verifie
 
 
 ## Author
-Emmanuel Odili
+**Emmanuel Odili**
 
 Data Analyst | Business Consultant
